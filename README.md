@@ -1,3 +1,6 @@
+CAR PRICE PREDICTION
+
+
 Objective:-
 The objective of this project is to develop a highly accurate model utilizing the Linear Regression algorithm to predict the price of used cars. This model will consider variables such as the brand, model, manufacturing year, fuel type, and mileage of the car.
 
